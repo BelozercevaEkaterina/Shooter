@@ -1,3 +1,4 @@
+#1.1
 from pygame import *
 from random import randint
  
